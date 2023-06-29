@@ -1,0 +1,15 @@
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\bin\Debug\net7.0\TilenTask0.exe
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\bin\Debug\net7.0\TilenTask0.deps.json
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\bin\Debug\net7.0\TilenTask0.runtimeconfig.json
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\bin\Debug\net7.0\TilenTask0.dll
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\bin\Debug\net7.0\TilenTask0.pdb
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.csproj.AssemblyReference.cache
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.AssemblyInfoInputs.cache
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.AssemblyInfo.cs
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.csproj.CoreCompileInputs.cache
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.dll
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\refint\TilenTask0.dll
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.pdb
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\TilenTask0.genruntimeconfig.cache
+D:\Coding\C#\source\repos\TilenTask0\TilenTask0\obj\Debug\net7.0\ref\TilenTask0.dll
